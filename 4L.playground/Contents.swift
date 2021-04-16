@@ -221,3 +221,7 @@ delorean.printInfo()
  renaultMagnum.doAction(action: .closeWindows)
  renaultMagnum.doAction(action: .wheelsAreIntact)
  renaultMagnum.printInfo()
+<<<<<<< Updated upstream
+=======
+ 
+>>>>>>> Stashed changes
